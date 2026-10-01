@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://marharyta-o2.github.io/sitemap.xml
